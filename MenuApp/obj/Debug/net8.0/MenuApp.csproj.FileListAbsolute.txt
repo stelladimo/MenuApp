@@ -135,3 +135,4 @@ C:\Users\sfd\source\repos\MenuApp\MenuApp\obj\Debug\net8.0\refint\MenuApp.dll
 C:\Users\sfd\source\repos\MenuApp\MenuApp\obj\Debug\net8.0\MenuApp.pdb
 C:\Users\sfd\source\repos\MenuApp\MenuApp\obj\Debug\net8.0\MenuApp.genruntimeconfig.cache
 C:\Users\sfd\source\repos\MenuApp\MenuApp\obj\Debug\net8.0\ref\MenuApp.dll
+C:\Users\sfd\source\repos\MenuApp\MenuApp\obj\Debug\net8.0\MenuApp.sourcelink.json
